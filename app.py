@@ -145,7 +145,7 @@ def process_query(user_input):
         laws.append(f"• {name} ({section})")
     laws = "\n".join(laws)
 
-    steps = "\n\n".join([f"Step {i+1}: {s}" for i, s in enumerate(action_data.get("steps", []))])
+    steps = "\n\n".join(action_data.get("steps", []))
     docs = "\n".join([f"• {d}" for d in action_data.get("documents_required", [])])
 
     portals = action_data.get("official_portals", [])
