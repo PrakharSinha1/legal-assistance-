@@ -1,0 +1,470 @@
+[
+  {
+    "id": "salary_01",
+    "category": "Salary Delay",
+    "law_name": "Payment of Wages Act, 1936",
+    "section": "Section 5 - Time of payment",
+    "summary": "Wages must be paid at fixed intervals and within the time fixed by the employer.",
+    "snippet": "Wages shall be paid on or before the expiry of the day following the last day of the wage-period.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20359/1/payment_of_wages_act_1936.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "salary",
+      "wages",
+      "payment",
+      "delay"
+    ],
+    "confidence_notes": "Official IndiaCode PDF."
+  },
+  {
+    "id": "salary_02",
+    "category": "Salary Delay",
+    "law_name": "Code on Wages, 2019",
+    "section": "Chapter II - Payment provisions",
+    "summary": "The Code consolidates wage rules; employers must pay wages and comply with minimum wage provisions.",
+    "snippet": "Wages means all remuneration expressed in terms of money payable to a person employed.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "wages",
+      "payment",
+      "code on wages"
+    ],
+    "confidence_notes": "Official Code on Wages PDF."
+  },
+  {
+    "id": "salary_03",
+    "category": "Salary Delay",
+    "law_name": "Payment of Wages Act, 1936",
+    "section": "Penalty provisions",
+    "summary": "Employers who wrongfully withhold wages may be liable for penalties under the Act.",
+    "snippet": "Penalty may be imposed where employer contravenes payment provisions of the Act.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20359/1/payment_of_wages_act_1936.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "penalty",
+      "employer",
+      "wages"
+    ],
+    "confidence_notes": "Official IndiaCode PDF."
+  },
+  {
+    "id": "salary_04",
+    "category": "Salary Delay",
+    "law_name": "Code on Wages, 2019",
+    "section": "Time and manner of payment",
+    "summary": "Code specifies payment intervals and employer obligations on timely wage disbursal.",
+    "snippet": "Every employer shall pay wages to the employee in such manner as may be prescribed.",
+    "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251123703501.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "payment intervals",
+      "employer obligations"
+    ],
+    "confidence_notes": "Government PIB summary of Code."
+  },
+  {
+    "id": "salary_05",
+    "category": "Salary Delay",
+    "law_name": "Payment of Wages Act, 1936",
+    "section": "Scope & application",
+    "summary": "The Act applies to specified establishments and classes of employed persons for wage regulation.",
+    "snippet": "This Act applies to the whole of India and to specified classes of employed persons.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20359/1/payment_of_wages_act_1936.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "scope",
+      "application"
+    ],
+    "confidence_notes": "IndiaCode text."
+  },
+  {
+    "id": "salary_06",
+    "category": "Salary Delay",
+    "law_name": "Code on Wages, 2019",
+    "section": "Remedies for non-payment",
+    "summary": "Workers can approach labour authorities or courts for enforcement where wages are unpaid.",
+    "snippet": "Disputes regarding wages may be referred to appropriate authority for remedy.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "remedy",
+      "labour authority",
+      "wages"
+    ],
+    "confidence_notes": "Code on Wages official PDF."
+  },
+  {
+    "id": "termination_01",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Chapter V - Reference to Industrial Tribunal",
+    "summary": "Employees may challenge unfair dismissals and seek remedy via industrial dispute resolution mechanisms.",
+    "snippet": "An industrial dispute may be referred to a Court or Tribunal for adjudication.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "termination",
+      "dismissal",
+      "industrial dispute"
+    ],
+    "confidence_notes": "IndiaCode PDF."
+  },
+  {
+    "id": "termination_02",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Retrenchment and notice",
+    "summary": "Certain retrenchments require notice or compensation under the Act's provisions.",
+    "snippet": "Retrenchment shall be carried out only after giving notice or wages in lieu and compensation.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "retrenchment",
+      "notice",
+      "compensation"
+    ],
+    "confidence_notes": "IndiaCode text."
+  },
+  {
+    "id": "termination_03",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Unfair labour practices",
+    "summary": "Acts by employers that unfairly dismiss or discriminate may be treated as unfair labour practices.",
+    "snippet": "The Fifth Schedule lists unfair labour practices by employers and workmen.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "unfair",
+      "dismissal",
+      "practices"
+    ],
+    "confidence_notes": "IndiaCode PDF."
+  },
+  {
+    "id": "termination_04",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Service matter references",
+    "summary": "Individual service matters can be raised through prescribed dispute resolution routes.",
+    "snippet": "Matters of service conditions may be provided for by law and adjudicated by Industrial Tribunals.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "service conditions",
+      "tribunal"
+    ],
+    "confidence_notes": "IndiaCode official."
+  },
+  {
+    "id": "termination_05",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Definition of workman",
+    "summary": "Who is a 'workman' and covered categories are defined under the Act for redressal eligibility.",
+    "snippet": "Definitions section explains 'workman' and applicability for industrial disputes.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "workman",
+      "definition",
+      "eligibility"
+    ],
+    "confidence_notes": "IndiaCode."
+  },
+  {
+    "id": "termination_06",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Appeal & enforcement",
+    "summary": "Orders of tribunals and courts provide remedies including reinstatement or compensation where justified.",
+    "snippet": "Tribunal orders may include reinstatement or compensation when dismissal is unlawful.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "reinstatement",
+      "compensation",
+      "orders"
+    ],
+    "confidence_notes": "IndiaCode PDF."
+  },
+  {
+    "id": "harassment_01",
+    "category": "Workplace Harassment",
+    "law_name": "Sexual Harassment of Women at Workplace (POSH) Act, 2013",
+    "section": "Section 4 - Internal Complaints Committee",
+    "summary": "Employers must constitute Internal Complaints Committees to receive and redress harassment complaints.",
+    "snippet": "Every employer shall constitute an Internal Complaints Committee in each office or district.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "posh",
+      "icc",
+      "harassment"
+    ],
+    "confidence_notes": "Official POSH Act document."
+  },
+  {
+    "id": "harassment_02",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Act, 2013",
+    "section": "Complaint process",
+    "summary": "The Act prescribes complaint filing timelines, inquiry procedures, and interim reliefs for victims.",
+    "snippet": "Complaints must be in writing and the committee shall inquire into every complaint in accordance with rules.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "complaint",
+      "inquiry",
+      "timelines"
+    ],
+    "confidence_notes": "DoE guidance PDF."
+  },
+  {
+    "id": "harassment_03",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Act, 2013",
+    "section": "Employer duties",
+    "summary": "Employers must provide a safe working environment and display policies against sexual harassment.",
+    "snippet": "Employer shall provide safe working environment and display the penal consequences of sexual harassment.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "employer duties",
+      "policy",
+      "safety"
+    ],
+    "confidence_notes": "Official guidance."
+  },
+  {
+    "id": "harassment_04",
+    "category": "Workplace Harassment",
+    "law_name": "SHe-Box / Central Reporting (official portal)",
+    "section": "Online reporting",
+    "summary": "Centralized portals exist for reporting POSH complaints to government authorities.",
+    "snippet": "Complaints may also be filed on centralised SHe-Box portal for monitoring implementation.",
+    "source": "https://www.indiacode.nic.in/",
+    "jurisdiction": "Central",
+    "keywords": [
+      "she-box",
+      "reporting",
+      "central"
+    ],
+    "confidence_notes": "Central reporting portals; verify current portal URL for live demo."
+  },
+  {
+    "id": "harassment_05",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Rules, 2013",
+    "section": "Interim relief",
+    "summary": "Committee may recommend interim measures like transfer or preventing contact pending inquiry.",
+    "snippet": "The ICC may recommend interim relief to the aggrieved woman during inquiry.",
+    "source": "https://patnahighcourt.gov.in/bslsa/pdf/ActsRules/94.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "interim relief",
+      "icc"
+    ],
+    "confidence_notes": "POSH Rules PDF."
+  },
+  {
+    "id": "harassment_06",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Act, 2013",
+    "section": "Penalty provisions",
+    "summary": "False or malicious complaints may attract penal consequences under rules if established.",
+    "snippet": "False or malicious complaints may attract punishment as per rules once established.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "false complaint",
+      "penalty"
+    ],
+    "confidence_notes": "Official Act text."
+  },
+  {
+    "id": "benefits_01",
+    "category": "Denial of Benefits",
+    "law_name": "Employees' Provident Fund Act, 1952",
+    "section": "Contributions & entitlement",
+    "summary": "Employers and employees contribute to EPF; employees have entitlement to provident fund benefits.",
+    "snippet": "Establishment shall comply with Employees' Provident Fund Scheme and contributions as prescribed.",
+    "source": "https://www.epfindia.gov.in/site_docs/PDFs/Downloads_PDFs/EPFAct1952.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "epf",
+      "contributions",
+      "benefits"
+    ],
+    "confidence_notes": "EPF official PDF."
+  },
+  {
+    "id": "benefits_02",
+    "category": "Denial of Benefits",
+    "law_name": "Payment of Gratuity Act, 1972",
+    "section": "Eligibility & payment",
+    "summary": "Employees who complete prescribed service are eligible for gratuity on termination or retirement.",
+    "snippet": "An employee who has rendered continuous service of five years shall be eligible for gratuity on termination.",
+    "source": "https://clc.gov.in/clc/sites/default/files/PaymentofGratuityAct.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "gratuity",
+      "eligibility"
+    ],
+    "confidence_notes": "Payment of Gratuity Act PDF."
+  },
+  {
+    "id": "benefits_03",
+    "category": "Denial of Benefits",
+    "law_name": "ESI / Social Security schemes",
+    "section": "Coverage & benefits",
+    "summary": "ESI provides medical and cash benefits for insured employees meeting threshold conditions.",
+    "snippet": "Employees covered under ESI are entitled to medical benefits as per scheme rules.",
+    "source": "https://www.epfindia.gov.in/site_docs/PDFs/Downloads_PDFs/EPFScheme.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "esi",
+      "medical benefits",
+      "coverage"
+    ],
+    "confidence_notes": "EPFO scheme PDF used for reference; link to ESI ministry for ESI-specific docs."
+  },
+  {
+    "id": "benefits_04",
+    "category": "Denial of Benefits",
+    "law_name": "Code on Wages, 2019",
+    "section": "Enforcement & remedies",
+    "summary": "Statutory benefit disputes can be referred to authorities for remedy and enforcement.",
+    "snippet": "Disputes on statutory benefits may be referred to authorities for remedy.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "benefits",
+      "remedy"
+    ],
+    "confidence_notes": "Code on Wages."
+  },
+  {
+    "id": "benefits_05",
+    "category": "Denial of Benefits",
+    "law_name": "Employees' Provident Fund Act, 1952",
+    "section": "Claims & recovery",
+    "summary": "Employees may file claims for recovery of unpaid provident fund contributions.",
+    "snippet": "Applications may be made for recovery of dues under the Provident Fund scheme.",
+    "source": "https://www.epfindia.gov.in/site_docs/PDFs/Downloads_PDFs/EPFAct1952.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "claims",
+      "recovery",
+      "epf"
+    ],
+    "confidence_notes": "EPF official."
+  },
+  {
+    "id": "benefits_06",
+    "category": "Denial of Benefits",
+    "law_name": "Payment of Gratuity Act, 1972",
+    "section": "Penalties",
+    "summary": "Employers who fail to pay gratuity may face penalties and recovery proceedings.",
+    "snippet": "Employers failing to pay gratuity are subject to penalties and recovery proceedings.",
+    "source": "https://clc.gov.in/clc/sites/default/files/PaymentofGratuityAct.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "gratuity",
+      "penalty"
+    ],
+    "confidence_notes": "Payment of Gratuity Act."
+  },
+  {
+    "id": "overtime_01",
+    "category": "Overtime Violation",
+    "law_name": "Minimum Wages Act, 1948",
+    "section": "Section 14 - Overtime",
+    "summary": "Workers are entitled to extra wages when working beyond normal hours.",
+    "snippet": "Where a worker works more than normal hours, he shall be entitled to extra wages for overtime.",
+    "source": "https://clc.gov.in/clc/sites/default/files/MinimumWagesact.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "overtime",
+      "extra wages"
+    ],
+    "confidence_notes": "Minimum Wages Act PDF."
+  },
+  {
+    "id": "overtime_02",
+    "category": "Overtime Violation",
+    "law_name": "Code on Wages, 2019",
+    "section": "Working hours & overtime",
+    "summary": "The Code prescribes normal working hours and overtime payment rules.",
+    "snippet": "The Code provides for wages for overtime work at rates as prescribed.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "overtime",
+      "working hours"
+    ],
+    "confidence_notes": "Code on Wages."
+  },
+  {
+    "id": "overtime_03",
+    "category": "Overtime Violation",
+    "law_name": "Factories Act (Section 59)",
+    "section": "Section 59 - Extra wages for overtime",
+    "summary": "Factory rules give entitlement to extra wages for work beyond daily limits (example: nine hours).",
+    "snippet": "If a worker works in a factory for more than nine hours in any day he is entitled to extra wages.",
+    "source": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_6_6_000010_194863_1517807319577&orderno=72&sectionId=9366&sectionno=59",
+    "jurisdiction": "Central",
+    "keywords": [
+      "factories",
+      "overtime"
+    ],
+    "confidence_notes": "IndiaCode section 59."
+  },
+  {
+    "id": "overtime_04",
+    "category": "Overtime Violation",
+    "law_name": "State Shops & Establishments Acts",
+    "section": "Working hours rules",
+    "summary": "State laws set normal hours and overtime limits specific to the state jurisdiction.",
+    "snippet": "State shops and establishments rules limit hours and prescribe overtime compensation.",
+    "source": "https://clc.gov.in/clc/sites/default/files/MinimumWagesact.pdf",
+    "jurisdiction": "State",
+    "keywords": [
+      "shops",
+      "establishments",
+      "overtime"
+    ],
+    "confidence_notes": "State acts vary; use local act for production."
+  },
+  {
+    "id": "overtime_05",
+    "category": "Overtime Violation",
+    "law_name": "Code on Wages, 2019",
+    "section": "Overtime calculation",
+    "summary": "Overtime payment methodology follows prescribed norms under wage legislation.",
+    "snippet": "Calculation of overtime shall follow prescribed norms laid down in wage rules.",
+    "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251123703501.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "overtime",
+      "calculation"
+    ],
+    "confidence_notes": "PIB summary document."
+  },
+  {
+    "id": "overtime_06",
+    "category": "Overtime Violation",
+    "law_name": "State draft rules / news (example)",
+    "section": "Example caps",
+    "summary": "Some states propose specific weekly/quarterly caps; verify state gazette for exact limits.",
+    "snippet": "Draft rules may set weekly working hours to 48 and quarterly overtime caps (example).",
+    "source": "https://timesofindia.indiatimes.com/city/ahmedabad/bill-extending-daily-working-hours-passed/articleshow/128476694.cms",
+    "jurisdiction": "State",
+    "keywords": [
+      "overtime",
+      "caps"
+    ],
+    "confidence_notes": "News example; verify official state notification for production."
+  }
+]

@@ -1,0 +1,97 @@
+[
+    {
+    "id": "termination_01",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Chapter V - Reference to Industrial Tribunal",
+    "summary": "Employees may challenge unfair dismissals and seek remedy via industrial dispute resolution mechanisms.",
+    "snippet": "An industrial dispute may be referred to a Court or Tribunal for adjudication.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "termination",
+      "dismissal",
+      "industrial dispute"
+    ],
+    "confidence_notes": "IndiaCode PDF."
+  },
+  {
+    "id": "termination_02",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Retrenchment and notice",
+    "summary": "Certain retrenchments require notice or compensation under the Act's provisions.",
+    "snippet": "Retrenchment shall be carried out only after giving notice or wages in lieu and compensation.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "retrenchment",
+      "notice",
+      "compensation"
+    ],
+    "confidence_notes": "IndiaCode text."
+  },
+  {
+    "id": "termination_03",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Unfair labour practices",
+    "summary": "Acts by employers that unfairly dismiss or discriminate may be treated as unfair labour practices.",
+    "snippet": "The Fifth Schedule lists unfair labour practices by employers and workmen.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "unfair",
+      "dismissal",
+      "practices"
+    ],
+    "confidence_notes": "IndiaCode PDF."
+  },
+  {
+    "id": "termination_04",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Service matter references",
+    "summary": "Individual service matters can be raised through prescribed dispute resolution routes.",
+    "snippet": "Matters of service conditions may be provided for by law and adjudicated by Industrial Tribunals.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "service conditions",
+      "tribunal"
+    ],
+    "confidence_notes": "IndiaCode official."
+  },
+  {
+    "id": "termination_05",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Definition of workman",
+    "summary": "Who is a 'workman' and covered categories are defined under the Act for redressal eligibility.",
+    "snippet": "Definitions section explains 'workman' and applicability for industrial disputes.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "workman",
+      "definition",
+      "eligibility"
+    ],
+    "confidence_notes": "IndiaCode."
+  },
+  {
+    "id": "termination_06",
+    "category": "Unfair Termination",
+    "law_name": "Industrial Disputes Act, 1947",
+    "section": "Appeal & enforcement",
+    "summary": "Orders of tribunals and courts provide remedies including reinstatement or compensation where justified.",
+    "snippet": "Tribunal orders may include reinstatement or compensation when dismissal is unlawful.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20352/1/the_industrial_disputes_act.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "reinstatement",
+      "compensation",
+      "orders"
+    ],
+    "confidence_notes": "IndiaCode PDF."
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "Salary Delay": {
+    "description": "Wages are unpaid or delayed beyond the legal wage period.",
+    "severity_logic": {
+      "default": "Medium",
+      "if_delay_more_than_3_months": "High"
+    },
+    "steps": [
+      "Step 1: Send a written reminder email to HR or employer requesting pending salary.",
+      "Step 2: Issue a formal legal notice citing Payment of Wages Act / Code on Wages.",
+      "Step 3: File complaint through Labour Commissioner or SAMADHAN portal.",
+      "Step 4: Escalate matter to Labour Court if unresolved."
+    ],
+    "documents_required": [
+      "Employment contract",
+      "Salary slips",
+      "Bank statements",
+      "Written communication proof"
+    ],
+    "official_portals": [
+      {
+        "name": "SAMADHAN Portal",
+        "url": "https://samadhan.labour.gov.in"
+      }
+    ],
+    "template_type": "salary_notice_template"
+  },
+
+  "Unfair Termination": {
+    "description": "Employee dismissed without notice, compensation, or valid procedure.",
+    "severity_logic": {
+      "default": "High"
+    },
+    "steps": [
+      "Step 1: Request written termination reason from employer.",
+      "Step 2: Review employment contract and termination clause.",
+      "Step 3: File complaint under Industrial Disputes Act.",
+      "Step 4: Approach Labour Court or Industrial Tribunal."
+    ],
+    "documents_required": [
+      "Offer letter",
+      "Termination letter",
+      "Experience certificate",
+      "Salary records"
+    ],
+    "official_portals": [
+      {
+        "name": "Labour Commissioner Office",
+        "url": "https://labour.gov.in"
+      }
+    ],
+    "template_type": "termination_appeal_template"
+  },
+
+  "Workplace Harassment": {
+    "description": "Sexual harassment or misconduct in workplace.",
+    "severity_logic": {
+      "default": "High"
+    },
+    "steps": [
+      "Step 1: File written complaint to Internal Complaints Committee (ICC).",
+      "Step 2: Submit complaint within 3 months of incident.",
+      "Step 3: Request interim relief if necessary.",
+      "Step 4: If ICC not present, file complaint via SHe-Box portal."
+    ],
+    "documents_required": [
+      "Written complaint",
+      "Incident details",
+      "Witness information (if any)",
+      "Evidence (messages, emails)"
+    ],
+    "official_portals": [
+      {
+        "name": "SHe-Box Portal",
+        "url": "https://shebox.nic.in"
+      }
+    ],
+    "template_type": "harassment_complaint_template"
+  },
+
+  "Denial of Benefits": {
+    "description": "Employer not providing EPF, ESI, gratuity or statutory benefits.",
+    "severity_logic": {
+      "default": "Medium"
+    },
+    "steps": [
+      "Step 1: Verify eligibility under EPF / ESI / Gratuity Act.",
+      "Step 2: Submit written request to employer for clarification.",
+      "Step 3: File grievance via EPFO or relevant authority portal.",
+      "Step 4: Escalate through labour authorities if employer non-compliant."
+    ],
+    "documents_required": [
+      "Employment proof",
+      "Salary slips",
+      "PF account number",
+      "Service duration proof"
+    ],
+    "official_portals": [
+      {
+        "name": "EPFO Portal",
+        "url": "https://www.epfindia.gov.in"
+      }
+    ],
+    "template_type": "benefits_claim_template"
+  },
+
+  "Overtime Violation": {
+    "description": "Employee not compensated for overtime or excess working hours.",
+    "severity_logic": {
+      "default": "Medium"
+    },
+    "steps": [
+      "Step 1: Calculate overtime hours based on attendance records.",
+      "Step 2: Review applicable wage law or state Shops & Establishments Act.",
+      "Step 3: Submit written overtime payment request to employer.",
+      "Step 4: File complaint with Labour Department if unpaid."
+    ],
+    "documents_required": [
+      "Attendance records",
+      "Salary slips",
+      "Employment agreement",
+      "Work schedule records"
+    ],
+    "official_portals": [
+      {
+        "name": "State Labour Department",
+        "url": "https://labour.gov.in"
+      }
+    ],
+    "template_type": "overtime_claim_template"
+  }
+}

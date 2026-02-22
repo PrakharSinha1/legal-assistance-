@@ -1,0 +1,97 @@
+[
+  {
+    "id": "salary_01",
+    "category": "Salary Delay",
+    "law_name": "Payment of Wages Act, 1936",
+    "section": "Section 5 - Time of payment",
+    "summary": "Wages must be paid at fixed intervals and within the time fixed by the employer.",
+    "snippet": "Wages shall be paid on or before the expiry of the day following the last day of the wage-period.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20359/1/payment_of_wages_act_1936.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "salary",
+      "wages",
+      "payment",
+      "delay"
+    ],
+    "confidence_notes": "Official IndiaCode PDF."
+  },
+  {
+    "id": "salary_02",
+    "category": "Salary Delay",
+    "law_name": "Code on Wages, 2019",
+    "section": "Chapter II - Payment provisions",
+    "summary": "The Code consolidates wage rules; employers must pay wages and comply with minimum wage provisions.",
+    "snippet": "Wages means all remuneration expressed in terms of money payable to a person employed.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "wages",
+      "payment",
+      "code on wages"
+    ],
+    "confidence_notes": "Official Code on Wages PDF."
+  },
+  {
+    "id": "salary_03",
+    "category": "Salary Delay",
+    "law_name": "Payment of Wages Act, 1936",
+    "section": "Penalty provisions",
+    "summary": "Employers who wrongfully withhold wages may be liable for penalties under the Act.",
+    "snippet": "Penalty may be imposed where employer contravenes payment provisions of the Act.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20359/1/payment_of_wages_act_1936.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "penalty",
+      "employer",
+      "wages"
+    ],
+    "confidence_notes": "Official IndiaCode PDF."
+  },
+  {
+    "id": "salary_04",
+    "category": "Salary Delay",
+    "law_name": "Code on Wages, 2019",
+    "section": "Time and manner of payment",
+    "summary": "Code specifies payment intervals and employer obligations on timely wage disbursal.",
+    "snippet": "Every employer shall pay wages to the employee in such manner as may be prescribed.",
+    "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251123703501.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "payment intervals",
+      "employer obligations"
+    ],
+    "confidence_notes": "Government PIB summary of Code."
+  },
+  {
+    "id": "salary_05",
+    "category": "Salary Delay",
+    "law_name": "Payment of Wages Act, 1936",
+    "section": "Scope & application",
+    "summary": "The Act applies to specified establishments and classes of employed persons for wage regulation.",
+    "snippet": "This Act applies to the whole of India and to specified classes of employed persons.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/20359/1/payment_of_wages_act_1936.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "scope",
+      "application"
+    ],
+    "confidence_notes": "IndiaCode text."
+  },
+  {
+    "id": "salary_06",
+    "category": "Salary Delay",
+    "law_name": "Code on Wages, 2019",
+    "section": "Remedies for non-payment",
+    "summary": "Workers can approach labour authorities or courts for enforcement where wages are unpaid.",
+    "snippet": "Disputes regarding wages may be referred to appropriate authority for remedy.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "remedy",
+      "labour authority",
+      "wages"
+    ],
+    "confidence_notes": "Code on Wages official PDF."
+  }
+]

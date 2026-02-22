@@ -1,0 +1,96 @@
+[
+    {
+    "id": "harassment_01",
+    "category": "Workplace Harassment",
+    "law_name": "Sexual Harassment of Women at Workplace (POSH) Act, 2013",
+    "section": "Section 4 - Internal Complaints Committee",
+    "summary": "Employers must constitute Internal Complaints Committees to receive and redress harassment complaints.",
+    "snippet": "Every employer shall constitute an Internal Complaints Committee in each office or district.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "posh",
+      "icc",
+      "harassment"
+    ],
+    "confidence_notes": "Official POSH Act document."
+  },
+  {
+    "id": "harassment_02",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Act, 2013",
+    "section": "Complaint process",
+    "summary": "The Act prescribes complaint filing timelines, inquiry procedures, and interim reliefs for victims.",
+    "snippet": "Complaints must be in writing and the committee shall inquire into every complaint in accordance with rules.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "complaint",
+      "inquiry",
+      "timelines"
+    ],
+    "confidence_notes": "DoE guidance PDF."
+  },
+  {
+    "id": "harassment_03",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Act, 2013",
+    "section": "Employer duties",
+    "summary": "Employers must provide a safe working environment and display policies against sexual harassment.",
+    "snippet": "Employer shall provide safe working environment and display the penal consequences of sexual harassment.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "employer duties",
+      "policy",
+      "safety"
+    ],
+    "confidence_notes": "Official guidance."
+  },
+  {
+    "id": "harassment_04",
+    "category": "Workplace Harassment",
+    "law_name": "SHe-Box / Central Reporting (official portal)",
+    "section": "Online reporting",
+    "summary": "Centralized portals exist for reporting POSH complaints to government authorities.",
+    "snippet": "Complaints may also be filed on centralised SHe-Box portal for monitoring implementation.",
+    "source": "https://www.indiacode.nic.in/",
+    "jurisdiction": "Central",
+    "keywords": [
+      "she-box",
+      "reporting",
+      "central"
+    ],
+    "confidence_notes": "Central reporting portals; verify current portal URL for live demo."
+  },
+  {
+    "id": "harassment_05",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Rules, 2013",
+    "section": "Interim relief",
+    "summary": "Committee may recommend interim measures like transfer or preventing contact pending inquiry.",
+    "snippet": "The ICC may recommend interim relief to the aggrieved woman during inquiry.",
+    "source": "https://patnahighcourt.gov.in/bslsa/pdf/ActsRules/94.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "interim relief",
+      "icc"
+    ],
+    "confidence_notes": "POSH Rules PDF."
+  },
+  {
+    "id": "harassment_06",
+    "category": "Workplace Harassment",
+    "law_name": "POSH Act, 2013",
+    "section": "Penalty provisions",
+    "summary": "False or malicious complaints may attract penal consequences under rules if established.",
+    "snippet": "False or malicious complaints may attract punishment as per rules once established.",
+    "source": "https://doe.gov.in/files/inline-documents/DoE_Prevention_sexual_harassment.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "false complaint",
+      "penalty"
+    ],
+    "confidence_notes": "Official Act text."
+  }
+]

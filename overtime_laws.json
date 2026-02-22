@@ -1,0 +1,93 @@
+[
+    {
+    "id": "overtime_01",
+    "category": "Overtime Violation",
+    "law_name": "Minimum Wages Act, 1948",
+    "section": "Section 14 - Overtime",
+    "summary": "Workers are entitled to extra wages when working beyond normal hours.",
+    "snippet": "Where a worker works more than normal hours, he shall be entitled to extra wages for overtime.",
+    "source": "https://clc.gov.in/clc/sites/default/files/MinimumWagesact.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "overtime",
+      "extra wages"
+    ],
+    "confidence_notes": "Minimum Wages Act PDF."
+  },
+    {
+    "id": "overtime_02",
+    "category": "Overtime Violation",
+    "law_name": "Code on Wages, 2019",
+    "section": "Working hours & overtime",
+    "summary": "The Code prescribes normal working hours and overtime payment rules.",
+    "snippet": "The Code provides for wages for overtime work at rates as prescribed.",
+    "source": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "overtime",
+      "working hours"
+    ],
+    "confidence_notes": "Code on Wages."
+  },
+  {
+    "id": "overtime_03",
+    "category": "Overtime Violation",
+    "law_name": "Factories Act (Section 59)",
+    "section": "Section 59 - Extra wages for overtime",
+    "summary": "Factory rules give entitlement to extra wages for work beyond daily limits (example: nine hours).",
+    "snippet": "If a worker works in a factory for more than nine hours in any day he is entitled to extra wages.",
+    "source": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_6_6_000010_194863_1517807319577&orderno=72&sectionId=9366&sectionno=59",
+    "jurisdiction": "Central",
+    "keywords": [
+      "factories",
+      "overtime"
+    ],
+    "confidence_notes": "IndiaCode section 59."
+  },
+  {
+    "id": "overtime_04",
+    "category": "Overtime Violation",
+    "law_name": "State Shops & Establishments Acts",
+    "section": "Working hours rules",
+    "summary": "State laws set normal hours and overtime limits specific to the state jurisdiction.",
+    "snippet": "State shops and establishments rules limit hours and prescribe overtime compensation.",
+    "source": "https://clc.gov.in/clc/sites/default/files/MinimumWagesact.pdf",
+    "jurisdiction": "State",
+    "keywords": [
+      "shops",
+      "establishments",
+      "overtime"
+    ],
+    "confidence_notes": "State acts vary; use local act for production."
+  },
+  {
+    "id": "overtime_05",
+    "category": "Overtime Violation",
+    "law_name": "Code on Wages, 2019",
+    "section": "Overtime calculation",
+    "summary": "Overtime payment methodology follows prescribed norms under wage legislation.",
+    "snippet": "Calculation of overtime shall follow prescribed norms laid down in wage rules.",
+    "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251123703501.pdf",
+    "jurisdiction": "Central",
+    "keywords": [
+      "overtime",
+      "calculation"
+    ],
+    "confidence_notes": "PIB summary document."
+  },
+  {
+    "id": "overtime_06",
+    "category": "Overtime Violation",
+    "law_name": "State draft rules / news (example)",
+    "section": "Example caps",
+    "summary": "Some states propose specific weekly/quarterly caps; verify state gazette for exact limits.",
+    "snippet": "Draft rules may set weekly working hours to 48 and quarterly overtime caps (example).",
+    "source": "https://timesofindia.indiatimes.com/city/ahmedabad/bill-extending-daily-working-hours-passed/articleshow/128476694.cms",
+    "jurisdiction": "State",
+    "keywords": [
+      "overtime",
+      "caps"
+    ],
+    "confidence_notes": "News example; verify official state notification for production."
+  }
+]
